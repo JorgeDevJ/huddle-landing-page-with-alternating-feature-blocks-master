@@ -251,6 +251,7 @@ footer img.img_log, img.social_icon{
     }
     .button_p span, .button_p.button_p__modif_text_heading span{
         font-size: 16px;
+        text-align: center;
     }
     /*tarjet*/
     .cont_main_section{
